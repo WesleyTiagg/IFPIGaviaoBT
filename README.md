@@ -1,4 +1,4 @@
-# 🦅 IFPI Gavião - Cardápio Digital (Versão Big Tripe)
+# 🦅 IFPI Gavião - Cardápio Digital (Atividade: Refatoração para MVVM Simplificado)
 
 > **Atividade Prática de Programação para Dispositivos Móveis (PDM) - IFPI**  
 > **Professor:** Iallen Gábio de Sousa Santos
