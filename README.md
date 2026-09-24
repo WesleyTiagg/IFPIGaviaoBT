@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # 🦅 IFPI Gavião - Cardápio Digital (Atividade: Refatoração para MVVM Simplificado)
-=======
-# 🦅 IFPI Gavião - Cardápio Digital
->>>>>>> cef526a (docs: atualiza README para refletir a arquitetura MVVM)
 
 Aplicativo de cardápio digital desenvolvido em React Native com Expo e TypeScript para o IFPI Campus Piripiri.
 
